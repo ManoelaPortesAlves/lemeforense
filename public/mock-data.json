@@ -1,0 +1,30 @@
+{
+  "entities": [
+    {
+      "id": "1",
+      "tipo": "pessoa",
+      "name": "Lucas Silva",
+      "cpf": "123.456.789-01",
+      "sexo": "Masculino",
+      "dataNascimento": "1990-05-15",
+      "nomeMae": "Maria Silva",
+      "telefones": ["(11) 99999-9999"],
+      "emails": ["lucas@lemeforense.com.br", "lucas@gmail.com"],
+      "enderecos": ["Rua A, 123, São Paulo"]
+    },
+    {
+      "id": "2",
+      "tipo": "empresa",
+      "name": "Leme Forense Ltda",
+      "cnpj": "12.345.678/0001-90",
+      "capitalSocial": "500000",
+      "dataInicio": "2010-03-01",
+      "situacaoCadastral": "Ativa",
+      "cnaePrincipal": "6201-5/01",
+      "telefones": ["(11) 2222-3333"],
+      "emails": ["contato@lemeforense.com.br"],
+      "enderecos": ["Av. Brasil, 1000, São Paulo"],
+      "quadroSocietario": ["João", "Pedro"]
+    }
+  ]
+}
